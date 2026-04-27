@@ -1,38 +1,44 @@
 #EXTM3U
 #PLAYLIST: Bangla Subtitle All Series
-#UPDATED: 2026-04-27 08:58:01
+#UPDATED: 2026-04-27 09:10:17
+#TOTAL: 96 episodes
+
+# ==========================================
+# Auto-generated playlist
+# Best quality selected automatically (1080p > 720p > 480p)
+# ==========================================
 
 
-# === ওরহান গাজী (Orhan Gazi) ===
+# === ওরহান গাজী (Orhan Gazi) (21 episodes) ===
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e01.png" group-title="Orhan Gazi",S01E01 - The great ruler of the Ottoman Empire V1 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e01.png" group-title="Orhan Gazi",S01E01 - The great ruler of the Ottoman Empire V1 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/1/Orhan%201%20Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e02.png" group-title="Orhan Gazi",S01E02 - The great ruler of the Ottoman Empire V2 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e02.png" group-title="Orhan Gazi",S01E02 - The great ruler of the Ottoman Empire V2 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/2/Orhan%202Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e03.png" group-title="Orhan Gazi",S01E03 - The great ruler of the Ottoman Empire V3 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e03.png" group-title="Orhan Gazi",S01E03 - The great ruler of the Ottoman Empire V3 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/3/Orhan%203Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e04.png" group-title="Orhan Gazi",S01E04 - The great ruler of the Ottoman Empire V4 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e04.png" group-title="Orhan Gazi",S01E04 - The great ruler of the Ottoman Empire V4 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/4/Orhan%204%20Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e05.png" group-title="Orhan Gazi",S01E05 - The great ruler of the Ottoman Empire V5 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e05.png" group-title="Orhan Gazi",S01E05 - The great ruler of the Ottoman Empire V5 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/5/Orhan%205%20Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e06.png" group-title="Orhan Gazi",S01E06 - The great ruler of the Ottoman Empire V6 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e06.png" group-title="Orhan Gazi",S01E06 - The great ruler of the Ottoman Empire V6 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/6/Orhan%206%20Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e07.png" group-title="Orhan Gazi",S01E07 - The great ruler of the Ottoman Empire V7 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e07.png" group-title="Orhan Gazi",S01E07 - The great ruler of the Ottoman Empire V7 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/7/Orhan%207Hd.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e08.png" group-title="Orhan Gazi",S01E08 - The Great Ruler Of The Ottoman Empire-v8 - Bangla 
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e08.png" group-title="Orhan Gazi",S01E08 - The Great Ruler Of The Ottoman Empire-v8 - Bangla Sub
 https://mcsdn03924.nuflayer.com/orhan/8/Orhan%208Hd.mp4
 
 #EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e09.png" group-title="Orhan Gazi",S01E09 - kurulus-orhan-season-1-volume-9 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Orhan/1-13/9.mp4
 
-#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e10.png" group-title="Orhan Gazi",S01E10 - The Great Ruler Of The Ottoman Empire-v10 - Bangla
+#EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e10.png" group-title="Orhan Gazi",S01E10 - The Great Ruler Of The Ottoman Empire-v10 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Orhan/1-13/10.mp4
 
 #EXTINF:-1 tvg-logo="./orhan-gazi/logos/s01e11.png" group-title="Orhan Gazi",S01E11 - Kurulus Orhan Season-1 Volume-11 - Bangla Sub
@@ -69,7 +75,7 @@ https://mcsdn03924.ncisbd.com/orhan/20/Orhan%2020N.mp4
 https://mcsdn03924.ncisbd.com/orhan/21/Orhan%2021N0926.mp4
 
 
-# === মেহমেদ বিজেতা (Mehmed the Conqueror) ===
+# === মেহমেদ বিজেতা (Mehmed the Conqueror) (75 episodes) ===
 
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e01.png" group-title="Mehmed the Conqueror",S01E01 - The Greatest Conquerors-v1 - Bangla Sub
 https://mcsdn03924.nuflayer.com/mehmet/60/Mehmet%2060Hd.mp4
@@ -215,9 +221,6 @@ https://mcsdn03924.nuflayer.com/mehmet/60/Mehmet%2060Hd.mp4
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e48.png" group-title="Mehmed the Conqueror",S01E48 - The Greatest Conquerors-v48 - Bangla Sub
 https://mcsdn03924.nuflayer.com/mehmet/60/Mehmet%2060Hd.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e49.png" group-title="Mehmed the Conqueror",S01E49 - The Greatest Conquerors-v49 - Bangla Sub
-https://mcsdn03924.nuflayer.com/mehmet/60/Mehmet%2060Hd.mp4
-
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e50.png" group-title="Mehmed the Conqueror",S01E50 - The greatest conquerors V50 - Bangla Sub
 https://mcsdn03924.nuflayer.com/mehmet/50/Mehmet%2050Hd.mp4
 
@@ -257,9 +260,6 @@ https://mcsdn03924.nuflayer.com/mehmet/61/Mehmet%2061Hd.mp4
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e62.png" group-title="Mehmed the Conqueror",S01E62 - The Greatest Conquerors-v62 - Bangla Sub
 https://mcsdn03924.nuflayer.com/mehmet/62/Mehmet%2062Hd.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e63.png" group-title="Mehmed the Conqueror",S01E63 - The Greatest Conquerors-v63 - Bangla Sub
-https://mcsdn03924.nuflayer.com/mehmet/63/Mehmet%2063N_Hd.mp4
-
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e66.png" group-title="Mehmed the Conqueror",S01E66 - Mehmed Fatih Sultan Volume-66 - Bangla Sub
 https://mcsdn03924.nuflayer.com/mehmet/66/Mehmet-sdrtaewf66Hd.mp4
 
@@ -278,20 +278,26 @@ https://mcsdn03924.ncisbd.com/Mehmed/70/Mehmet%2070Nhd54148.mp4
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e71.png" group-title="Mehmed the Conqueror",S01E71 - Mehmed Fatih Sultan Volume-71 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Mehmed/71/Mehmet%2071%20N%20Hfaf.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e72.png" group-title="Mehmed the Conqueror",S01E72 - Mehmed Fatih Sultan Volume-72 - Bangla Sub
-https://mcsdn03924.ncisbd.com//Mehmed/72/Mehmet%2072%20FHDup.mp4
-
 #EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e73.png" group-title="Mehmed the Conqueror",S01E73 - Mehmed Fatih Sultan Volume-73 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Mehmed/73/Mehmet%2073%20Nfhdsdf.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e74.png" group-title="Mehmed the Conqueror",S01E74 - Mehmed Fatih Sultan Volume-74 - Bangla Sub
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s02e72.png" group-title="Mehmed the Conqueror",S02E72 - Mehmed Fatih Sultan Volume-72 - Bangla Sub
+https://mcsdn03924.ncisbd.com//Mehmed/72/Mehmet%2072%20FHDup.mp4
+
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s02e74.png" group-title="Mehmed the Conqueror",S02E74 - Mehmed Fatih Sultan Volume-74 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Mehmed/74/Mehmet%2074Normfhd.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e75.png" group-title="Mehmed the Conqueror",S01E75 - Mehmed Fatih sultan Volume-75 - Bangla Sub
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s02e75.png" group-title="Mehmed the Conqueror",S02E75 - Mehmed Fatih sultan Volume-75 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Mehmed/75/Mehmet%2075Nh2684.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e76.png" group-title="Mehmed the Conqueror",S01E76 - Mehmed Fatih Sultan Volume-76 - Bangla Sub
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s02e76.png" group-title="Mehmed the Conqueror",S02E76 - Mehmed Fatih Sultan Volume-76 - Bangla Sub
 https://mcsdn03924.ncisbd.com//Mehmed/76/Mehmet%2076Ns.mp4
 
-#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s01e77.png" group-title="Mehmed the Conqueror",S01E77 - Mehmed Fatih Sultan Volume-77 - Bangla Sub
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s02e77.png" group-title="Mehmed the Conqueror",S02E77 - Mehmed Fatih Sultan Volume-77 - Bangla Sub
 https://mcsdn03924.ncisbd.com/Mehmed/77/Mehmet%2077Nh%20qla.mp4
+
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s03e49.png" group-title="Mehmed the Conqueror",S03E49 - The Greatest Conquerors-v49 - Bangla Sub
+https://mcsdn03924.nuflayer.com/mehmet/60/Mehmet%2060Hd.mp4
+
+#EXTINF:-1 tvg-logo="./mehmed-conqueror/logos/s03e63.png" group-title="Mehmed the Conqueror",S03E63 - The Greatest Conquerors-v63 - Bangla Sub
+https://mcsdn03924.nuflayer.com/mehmet/63/Mehmet%2063N_Hd.mp4
