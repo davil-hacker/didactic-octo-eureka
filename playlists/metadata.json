@@ -1,0 +1,29 @@
+{
+  "last_scan": "2026-04-27T08:44:50.511741",
+  "scan_duration_seconds": 104,
+  "statistics": {
+    "total_links": 96,
+    "total_videos": 96,
+    "total_logos": 96
+  },
+  "series": {
+    "orhan-gazi": {
+      "name": "ওরহান গাজী (Orhan Gazi)",
+      "total_episodes": 21,
+      "episodes_with_video": 21,
+      "seasons": [
+        1
+      ]
+    },
+    "mehmed-conqueror": {
+      "name": "মেহমেদ বিজেতা (Mehmed the Conqueror)",
+      "total_episodes": 75,
+      "episodes_with_video": 75,
+      "seasons": [
+        1,
+        2,
+        3
+      ]
+    }
+  }
+}
