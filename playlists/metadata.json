@@ -1,12 +1,12 @@
 {
-  "last_scan": "2026-05-03T13:16:55.857020",
-  "duration": 77,
+  "last_scan": "2026-05-03T19:04:27.602917",
+  "duration": 90,
   "stats": {
     "total_links": 98,
-    "total_videos": 98,
+    "total_videos": 97,
     "total_logos": 0,
     "missing_logos": 0,
-    "skipped_logos": 98,
+    "skipped_logos": 97,
     "new_episodes": 0
   },
   "series": {
@@ -17,8 +17,8 @@
     },
     "mehmed-conqueror": {
       "name": "\u09ae\u09c7\u09b9\u09ae\u09c7\u09a6 \u09ac\u09bf\u099c\u09c7\u09a4\u09be (Mehmed the Conqueror)",
-      "total": 76,
-      "with_video": 76
+      "total": 75,
+      "with_video": 75
     }
   }
 }
