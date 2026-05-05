@@ -580,5 +580,17 @@
     "last_check": "2026-05-01T13:23:57.180759",
     "season": 1,
     "episode": 10
+  },
+  "orhan-gazi_s01e23": {
+    "exists": false,
+    "last_check": "2026-05-05T19:24:43.791326",
+    "season": 1,
+    "episode": 23
+  },
+  "mehmed-conqueror_s01e79": {
+    "exists": false,
+    "last_check": "2026-05-05T19:25:18.929003",
+    "season": 1,
+    "episode": 79
   }
 }
