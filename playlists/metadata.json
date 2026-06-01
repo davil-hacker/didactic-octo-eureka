@@ -1,12 +1,12 @@
 {
-  "last_scan": "2026-06-01T04:18:22.142815",
-  "duration": 109,
+  "last_scan": "2026-06-01T11:40:30.897703",
+  "duration": 89,
   "stats": {
     "total_links": 102,
     "total_videos": 102,
     "total_logos": 0,
-    "missing_logos": 2,
-    "skipped_logos": 100,
+    "missing_logos": 0,
+    "skipped_logos": 102,
     "new_episodes": 0
   },
   "series": {
