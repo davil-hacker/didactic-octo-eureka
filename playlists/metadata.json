@@ -1,19 +1,19 @@
 {
-  "last_scan": "2026-06-03T20:58:49.997336",
-  "duration": 77,
+  "last_scan": "2026-06-04T04:15:40.487361",
+  "duration": 115,
   "stats": {
-    "total_links": 102,
-    "total_videos": 102,
+    "total_links": 103,
+    "total_videos": 103,
     "total_logos": 0,
-    "missing_logos": 0,
+    "missing_logos": 1,
     "skipped_logos": 102,
     "new_episodes": 0
   },
   "series": {
     "orhan-gazi": {
       "name": "\u0993\u09b0\u09b9\u09be\u09a8 \u0997\u09be\u099c\u09c0 (Orhan Gazi)",
-      "total": 24,
-      "with_video": 24
+      "total": 25,
+      "with_video": 25
     },
     "mehmed-conqueror": {
       "name": "\u09ae\u09c7\u09b9\u09ae\u09c7\u09a6 \u09ac\u09bf\u099c\u09c7\u09a4\u09be (Mehmed the Conqueror)",
