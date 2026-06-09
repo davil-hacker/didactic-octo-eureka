@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: Bangla Subtitle All Series
-#UPDATED: 2026-06-09 09:50:48
+#UPDATED: 2026-06-09 14:56:54
 
 
-# === ওরহান গাজী (Orhan Gazi) (25 episodes) ===
+# === ওরহান গাজী (Orhan Gazi) (26 episodes) ===
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davil-hacker/didactic-octo-eureka/main/playlists/default-logo.png" group-title="Orhan Gazi",S01E01 - The great ruler of the Ottoman Empire V1 - Bangla 
 https://mcsdn03924.nuflayer.com/orhan/1/Orhan%201%20Hd.mp4
@@ -79,6 +79,9 @@ https://mcsdn03924.ncisbd.com/orhan/24/Orhan%2024sfdasfN.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davil-hacker/didactic-octo-eureka/main/playlists/default-logo.png" group-title="Orhan Gazi",S01E25 - The Great Ruler Of The Ottoman Empire V25 - Bangla
 https://mcsdn03924.ncisbd.com/orhan/25/Orhan%2025Hdd3d.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davil-hacker/didactic-octo-eureka/main/playlists/default-logo.png" group-title="Orhan Gazi",S01E26 - The Great Ruler Of The Ottoman Empire V26 - Bangla
+https://mcsdn03924.nuflayer.com/orhan/9/Orhan%209Sd%20jsk.mp4
 
 
 # === মেহমেদ বিজেতা (Mehmed the Conqueror) (78 episodes) ===
