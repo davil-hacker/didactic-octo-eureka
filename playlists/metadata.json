@@ -1,9 +1,9 @@
 {
-  "last_scan": "2026-08-16T06:42:49.482805",
-  "duration": 118,
+  "last_scan": "2026-08-16T12:41:56.088451",
+  "duration": 83,
   "stats": {
     "total_links": 104,
-    "total_videos": 103,
+    "total_videos": 104,
     "total_logos": 0,
     "missing_logos": 0,
     "skipped_logos": 104,
@@ -18,7 +18,7 @@
     "mehmed-conqueror": {
       "name": "\u09ae\u09c7\u09b9\u09ae\u09c7\u09a6 \u09ac\u09bf\u099c\u09c7\u09a4\u09be (Mehmed the Conqueror)",
       "total": 78,
-      "with_video": 77
+      "with_video": 78
     }
   }
 }
